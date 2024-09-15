@@ -1,0 +1,11 @@
+lastName,firstName,employeeId,otherId,drivingLicenseNo,drivingLicenseExpiredDate,gender,maritalStatus,birthday,nationalityId
+Romer,David,0123,1235,5555555,2026-04-16,1,Single,2000-10-04,4
+Poudel,Bharat,0456,2239,4658392,2027-11-20,2,Married,1995-05-14,2
+Bhattrai,Pradip,0789,3342,7392018,2025-08-30,2,Single,1998-12-25,3
+Chhetri,Nirvana,1094,4456,9823146,2028-03-10,1,Married,1987-09-17,1
+Kumar,Ramesh,2003,5569,1820392,2026-07-19,2,Divorced,1992-11-22,5
+Gurung,Shisir,3140,6671,3749201,2029-01-25,1,Single,2001-02-18,6
+Rai,Saroj,4285,7784,4857601,2024-12-05,2,Married,1990-03-09,2
+Shrestha,Niraj,5392,8897,3928741,2027-04-16,1,Married,1988-10-03,4
+Thapa,Meera,6507,9901,6501205,2028-09-13,2,Widowed,1991-06-27,1
+Mainali,Prabin,7614,10115,9874023,2025-06-21,1,Single,1999-04-15,3

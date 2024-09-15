@@ -1,0 +1,122 @@
+[
+    {
+        "lastName": "Romer",
+        "firstName": "David",
+        "employeeId": "0123",
+        "otherId": "1235",
+        "drivingLicenseNo": "5555555",
+        "drivingLicenseExpiredDate": "2026-04-16",
+        "gender": 1,
+        "maritalStatus": "Single",
+        "birthday": "2000-10-04",
+        "nationalityId": 4
+    },
+    {
+        "lastName": "Poudel",
+        "firstName": "Bharat",
+        "employeeId": "0456",
+        "otherId": "2239",
+        "drivingLicenseNo": "4658392",
+        "drivingLicenseExpiredDate": "2027-11-20",
+        "gender": 2,
+        "maritalStatus": "Married",
+        "birthday": "1995-05-14",
+        "nationalityId": 2
+    },
+    {
+        "lastName": "Bhattarai",
+        "firstName": "Pradip",
+        "employeeId": "0789",
+        "otherId": "3342",
+        "drivingLicenseNo": "7392018",
+        "drivingLicenseExpiredDate": "2025-08-30",
+        "gender": 2,
+        "maritalStatus": "Single",
+        "birthday": "1998-12-25",
+        "nationalityId": 3
+    },
+    {
+        "lastName": "Chhetri",
+        "firstName": "Nirvana",
+        "employeeId": "1094",
+        "otherId": "4456",
+        "drivingLicenseNo": "9823146",
+        "drivingLicenseExpiredDate": "2028-03-10",
+        "gender": 1,
+        "maritalStatus": "Married",
+        "birthday": "1987-09-17",
+        "nationalityId": 1
+    },
+    {
+        "lastName": "Kumar",
+        "firstName": "Ramesh",
+        "employeeId": "2003",
+        "otherId": "5569",
+        "drivingLicenseNo": "1820392",
+        "drivingLicenseExpiredDate": "2026-07-19",
+        "gender": 2,
+        "maritalStatus": "Divorced",
+        "birthday": "1992-11-22",
+        "nationalityId": 5
+    },
+    {
+        "lastName": "Gurung",
+        "firstName": "Shisir",
+        "employeeId": "3140",
+        "otherId": "6671",
+        "drivingLicenseNo": "3749201",
+        "drivingLicenseExpiredDate": "2029-01-25",
+        "gender": 1,
+        "maritalStatus": "Single",
+        "birthday": "2001-02-18",
+        "nationalityId": 6
+    },
+    {
+        "lastName": "Rai",
+        "firstName": "Saroj",
+        "employeeId": "4285",
+        "otherId": "7784",
+        "drivingLicenseNo": "4857601",
+        "drivingLicenseExpiredDate": "2024-12-05",
+        "gender": 2,
+        "maritalStatus": "Married",
+        "birthday": "1990-03-09",
+        "nationalityId": 2
+    },
+    {
+        "lastName": "Shrestha",
+        "firstName": "Niraj",
+        "employeeId": "5392",
+        "otherId": "8897",
+        "drivingLicenseNo": "3928741",
+        "drivingLicenseExpiredDate": "2027-04-16",
+        "gender": 1,
+        "maritalStatus": "Married",
+        "birthday": "1988-10-03",
+        "nationalityId": 4
+    },
+    {
+        "lastName": "Thapa",
+        "firstName": "Meera",
+        "employeeId": "6507",
+        "otherId": "9901",
+        "drivingLicenseNo": "6501205",
+        "drivingLicenseExpiredDate": "2028-09-13",
+        "gender": 2,
+        "maritalStatus": "Widowed",
+        "birthday": "1991-06-27",
+        "nationalityId": 1
+    },
+    {
+        "lastName": "Mainali",
+        "firstName": "Prabin",
+        "employeeId": "7614",
+        "otherId": "10115",
+        "drivingLicenseNo": "9874023",
+        "drivingLicenseExpiredDate": "2025-06-21",
+        "gender": 1,
+        "maritalStatus": "Single",
+        "birthday": "1999-04-15",
+        "nationalityId": 3
+    }
+]
